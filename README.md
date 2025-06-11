@@ -62,7 +62,7 @@ Embedded systems typically add:
 **Our Approach:**
 - Development platform: <$50
 - User's existing phone/tablet: $0 (already owned)
-- **Total: $50 per device (~75%-90% cost reduction)**
+- **Total: <$50 per device (~75%-90% cost reduction)**
 
 ### Why This Makes Sense
 
