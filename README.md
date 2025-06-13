@@ -1,6 +1,11 @@
-# Portable Wireless Development Platform
+# Pico Control
 
-Transform any smartphone or tablet into a powerful interface for embedded systems development and field instrumentation. This revolutionary platform eliminates expensive displays, connectors, and keyboards by leveraging the sophisticated computing device you already carry in your pocket.
+## Pico Control: The hardware is optional
+Ditch the wires and give your Pico project a wireless control panel. Pico Control turns your Pico W into a Wi-Fi hotspot, letting you build a custom interface you can access from any browser, on any device. No internet or app install required.
+
+
+
+Transform any smartphone, tablet, or laptop into a powerful interface for embedded systems development and field instrumentation. This revolutionary platform eliminates expensive displays, connectors, and keyboards by leveraging the sophisticated computing device you already carry in your pocket.
 
 ## The Problem We Solve
 
